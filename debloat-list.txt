@@ -122,7 +122,6 @@ adb shell pm uninstall --user 0 com.android.bips
 adb shell pm uninstall --user 0 com.android.apps.tag
 adb shell pm uninstall --user 0 com.android.updater
 adb shell pm uninstall --user 0 com.android.providers.userdictionary
-adb shell pm uninstall --user 0 com.miui.weather2
 adb shell pm uninstall --user 0 com.android.managedprovisioning
 adb shell pm uninstall --user 0 com.xiaomi.account
 adb shell pm uninstall --user 0 com.miui.cloudservice
@@ -197,3 +196,6 @@ adb shell pm uninstall --user 0 com.android.soundpicker
 adb shell pm uninstall --user 0 com.miui.misound
 adb shell pm uninstall --user 0 com.qualcomm.qti.xrcb
 adb shell pm uninstall --user 0 com.qualcomm.qti.xrvd.service
+adb shell pm uninstall --user 0 com.mi.globalbrowser
+
+
