@@ -1,2 +1,2 @@
 # xiaomi-miui14-debloat
-miui 14 debloat list
+# Just drag this txt file into platform tools and enjoy your debloated miui 14 !!!
