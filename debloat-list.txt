@@ -73,7 +73,6 @@ adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
 adb shell pm uninstall --user 0 com.google.android.onetimeinitializer
 adb shell pm uninstall --user 0 com.google.android.partnersetup
 adb shell pm uninstall --user 0 com.google.android.apps.walletnfcrel
-adb shell pm uninstall --user 0 com.android.vending
 adb shell pm uninstall --user 0 com.mi.healthglobal
 adb shell pm uninstall --user 0 org.ifaa.aidl.manager
 adb shell pm uninstall --user 0 com.xiaomi.joyose
